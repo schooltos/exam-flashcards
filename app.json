@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Flashcards",
+    "slug": "flashcards-react-native",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": ["android", "ios"],
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.student.flashcards"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.student.flashcards"
+    }
+  }
+}
